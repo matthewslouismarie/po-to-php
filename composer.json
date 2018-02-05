@@ -1,0 +1,8 @@
+{
+    "name": "matthewslouismarie/po-to-php",
+    "autoload": {
+        "psr-4": {
+            "LM\\PoToPhp": ""
+        }
+    }
+}
